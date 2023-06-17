@@ -1,0 +1,25 @@
+{
+    "Address Book":{
+        "Sanya Singh": [
+            {
+                "Address": "Ahmedabad, Gujarat", 
+                "Phone no": "8006789547", 
+                "Email": "sanya04@gmail.com"
+            }
+        ], 
+        "Manas Sharma": [
+            {
+                "Address": "Mumbai, Maharashtra", 
+                "Phone no": "8009654738", 
+                "Email": "manas00@gmail.com"
+            }
+        ], 
+        "Riya Aggarwal": [
+            {
+                "Address": "Dwarka, New Delhi", 
+                "Phone no": "8007890054", 
+                "Email": "riya_agg@gmail.com"
+            }
+        ]
+    }
+}

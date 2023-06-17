@@ -1,0 +1,5 @@
+URL00, 0.3: References to URL01 and URL04
+URL01, 0.4: References to URL00, URL03 and URL04
+URL02, 0.5: References to URL01, URL01
+URL03, 0.7: References to URL00, URL02 and URL00
+URL04, 0.9: References to URL03 and URL02

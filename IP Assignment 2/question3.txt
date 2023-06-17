@@ -1,0 +1,41 @@
+Ashish:
+Shreyas, 1
+Rayka, 0
+Manas, 1
+Kavya, 0
+Parul, 0
+
+Shreyas:
+Ashish, 0
+Rayka, 1
+Manas, 1
+Kavya, 0
+Parul, 1
+
+Rayka:
+Shreyas, 1
+Ashish, 1
+Manas, 1
+Kavya, 0
+Parul, 1
+
+Manas:
+Shreyas, 1
+Rayka, 0
+Ashish, 0
+Kavya, 1
+Parul, 1
+
+Kavya:
+Shreyas, 0
+Rayka, 1
+Manas, 1
+Ashish, 1
+Parul, 0
+
+Parul:
+Shreyas, 1
+Rayka, 0
+Manas, 1
+Kavya, 0
+Ashish, 1

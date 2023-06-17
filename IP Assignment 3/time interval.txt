@@ -1,0 +1,116 @@
+Snehal, EXIT, 3, 01:00:01
+Snehal, ENTER, 5, 01:00:06
+Khushdev Pandit, ENTER, 3, 01:00:13
+Swaib Ilias Mazumder, EXIT, 3, 01:00:20
+Ankita Mahato, EXIT, 1, 01:00:41
+Manas, ENTER, 5, 01:00:46
+Vamshi Krishna Vannekala, ENTER, 5, 01:01:02
+Khushdev Pandit, EXIT, 1, 01:01:28
+Swatantra kumar nigam, EXIT, 5, 01:01:30
+Khushdev Pandit, ENTER, 5, 01:01:35
+Thakkar Divyakumar Rameshbhai, EXIT, 1, 01:01:54
+Smiti Singhal, ENTER, 5, 01:02:02
+Sumit Kumar, ENTER, 5, 01:02:03
+Khushdev Pandit, EXIT, 5, 01:02:06
+Khushdev Pandit, ENTER, 5, 01:02:14
+Param Shah, ENTER, 3, 01:02:17
+Khushdev Pandit, EXIT, 5, 01:02:25
+Vibhor Agarwal, ENTER, 1, 01:02:29
+Anuj Yadav, EXIT, 3, 01:02:30
+Khushdev Pandit, ENTER, 3, 01:02:41
+Sumit Kumar, EXIT, 3, 01:02:43
+Ujjwal Garg, ENTER, 1, 01:02:48
+Manas, EXIT, 3, 01:02:53
+Sushil Kumar, ENTER, 3, 01:03:00
+Ayush Srivastava, ENTER, 3, 01:03:13
+Vamshi Krishna Vannekala, EXIT, 3, 01:03:15
+Khushdev Pandit, EXIT, 5, 01:03:25
+Khushdev Pandit, ENTER, 3, 01:03:29
+Aditya Raj Singh, EXIT, 3, 01:04:25
+Rohan Dhar, EXIT, 3, 01:04:27
+Sumit Kumar, ENTER, 1, 01:04:32
+Khushdev Pandit, EXIT, 3, 01:04:34
+Khushdev Pandit, ENTER, 1, 01:04:47
+Khushdev Pandit, EXIT, 5, 01:04:49
+Khushdev Pandit, ENTER, 3, 01:05:01
+Snehal, EXIT, 1, 01:05:04
+Gayam Shivakanth Reddy, EXIT, 3, 01:05:05
+Khushdev Pandit, EXIT, 1, 01:05:22
+Khushdev Pandit, ENTER, 1, 01:05:31
+Khushdev Pandit, EXIT, 5, 01:05:43
+Khushdev Pandit, ENTER, 5, 01:05:46
+Ankita Mahato, ENTER, 5, 01:05:50
+Vibhor Agarwal, EXIT, 5, 01:05:51
+Kartik Gupta, ENTER, 5, 01:05:54
+Khushdev Pandit, EXIT, 1, 01:05:59
+Ankita Mahato, EXIT, 3, 01:06:12
+Param Shah, EXIT, 1, 01:06:15
+Thanmayee Matha, ENTER, 3, 01:06:15
+Swaib Ilias Mazumder, ENTER, 1, 01:06:17
+Aryan Chaudhary, EXIT, 1, 01:06:17
+Dhruv Mishra, EXIT, 3, 01:06:19
+Bharat Goyal, EXIT, 1, 01:06:22
+Khushdev Pandit, ENTER, 3, 01:06:23
+Rishabh Oberoi, ENTER, 3, 01:06:28
+Khushdev Pandit, EXIT, 5, 01:06:28
+Khushdev Pandit, ENTER, 1, 01:06:43
+Dhruv Mishra, ENTER, 3, 01:06:51
+Snehal, ENTER, 5, 01:06:59
+Bhavya Jain, EXIT, 3, 01:07:01
+Shashank Dargar, ENTER, 3, 01:07:08
+Bhavya Jain, ENTER, 3, 01:07:15
+Khushdev Pandit, EXIT, 5, 01:07:22
+Yuvraj Singh, EXIT, 1, 01:07:28
+Vamshi Krishna Vannekala, ENTER, 5, 01:07:31
+Ujjwal Garg, EXIT, 3, 01:07:47
+Ankita Mahato, ENTER, 3, 01:07:51
+Khushdev Pandit, ENTER, 1, 01:07:52
+Snehal, EXIT, 5, 01:07:53
+Swati Jha, EXIT, 1, 01:08:11
+Khushdev Pandit, EXIT, 5, 01:08:13
+Khushdev Pandit, ENTER, 5, 01:08:19
+Khushdev Pandit, EXIT, 3, 01:08:20
+Thanmayee Matha, EXIT, 5, 01:08:36
+Khushdev Pandit, ENTER, 5, 01:08:39
+Aryan Chaudhary, ENTER, 1, 01:08:58
+Rishabh Oberoi, EXIT, 3, 01:08:58
+Ujjwal Garg, ENTER, 5, 01:09:14
+Swatantra kumar nigam, ENTER, 1, 01:09:20
+Dhruv Mishra, EXIT, 1, 01:09:30
+Khushdev Pandit, EXIT, 1, 01:09:33
+Khushdev Pandit, ENTER, 5, 01:09:53
+Surbhi Goyal, ENTER, 1, 01:09:59
+Khushdev Pandit, EXIT, 3, 01:10:11
+Sumit Kumar, EXIT, 5, 01:10:18
+Khushdev Pandit, ENTER, 1, 01:10:32
+Dhruv Mishra, ENTER, 1, 01:10:39
+Manas, ENTER, 1, 01:10:49
+Vibhor Agarwal, ENTER, 1, 01:10:51
+Khushdev Pandit, EXIT, 3, 01:10:54
+Shraman Jain, EXIT, 3, 01:10:54
+Ankita Mahato, EXIT, 5, 01:10:56
+Snehal, ENTER, 5, 01:11:01
+Khushdev Pandit, ENTER, 1, 01:11:20
+Khushdev Pandit, EXIT, 3, 01:11:21
+Surbhi Goyal, EXIT, 1, 01:11:23
+Anuj Yadav, ENTER, 5, 01:11:26
+Khushdev Pandit, ENTER, 3, 01:11:27
+Aryan Chaudhary, EXIT, 1, 01:11:34
+Khushdev Pandit, EXIT, 1, 01:11:38
+Sushil Kumar, EXIT, 3, 01:11:53
+Shashank Dargar, EXIT, 1, 01:11:56
+Ayush Srivastava, EXIT, 1, 01:12:12
+Vibhor Agarwal, EXIT, 1, 01:12:17
+Khushdev Pandit, ENTER, 5, 01:12:20
+Khushdev Pandit, EXIT, 3, 01:12:23
+Snehal, EXIT, 3, 01:12:41
+Mohammed Kaif, ENTER, 1, 01:12:57
+Aryan Chaudhary, ENTER, 3, 01:13:10
+Khushdev Pandit, ENTER, 1, 01:13:13
+Rohan Dhar, ENTER, 3, 01:13:23
+Aryan Chaudhary, EXIT, 3, 01:13:32
+Gayam Shivakanth Reddy, ENTER, 5, 01:14:11
+Khushdev Pandit, EXIT, 5, 01:14:12
+Khushdev Pandit, ENTER, 3, 01:14:17
+Thanmayee Matha, ENTER, 5, 01:14:34
+Khushdev Pandit, EXIT, 1, 01:14:57

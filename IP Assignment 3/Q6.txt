@@ -1,0 +1,31 @@
+A part:
+
+Advantages of using OO:
+1. It makes the program modular so it becomes easier to debug the code or reuse the same code in different parts of the program.
+2. Problems can be solved by breaking it into smaller problems which increases the efficiency.
+
+Advantages of using dictionary:
+1. The time complexity of dictionary is less than OO.
+2. The code requires less number of lines.
+
+Disadvantages of using OO:
+1. The size of the program and the number of lines is more.
+2. The time complexity is more for OO.
+
+Disadvantages of using dictionary:
+1. The code for dictionary cannot be reused unless functions are used for the same operation.
+2. It is more difficult to debug the code in comparison to OO.
+
+B part:
+
+Performance comparison for grading operation
+N=1000
+Time by OO: 0.02100372314453125 seconds
+Time by dictionary: 0.029262781143188477 seconds
+OO is faster. Fraction of time taken: 0.71776236994549319832569077825807
+
+Performance comparison for search operation
+N=5
+Time by OO: 0.0019559860229492188 seconds
+Time by dictionary: 0.0008471012115478516 seconds
+Dictionary is faster. Fraction of time taken: 0.43308142369575817484917633024858

@@ -1,0 +1,25 @@
+{
+    "Address Book":{
+        "Karan Gupta": [
+            {
+                "Address": "Okhla, Delhi",
+                "Phone no": "1234567890",
+                "Email": "karan@gmail.com"
+            }
+        ],
+        "Roohi Jain": [
+            {
+                "Address": "Chandigarh, Punjab",
+                "Phone no": "9316378298",
+                "Email": "r@gmail.com"
+            }
+        ],
+        "Megha Godara": [
+            {
+                "Address": "Yishun, Singapore", 
+                "Phone no": "1230921830", 
+                "Email": "megha@gmail.com"
+            }
+        ]
+    }
+}

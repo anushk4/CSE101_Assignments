@@ -1,0 +1,72 @@
+FILE1.TXT
+
+Score: 8.07956448911223
+
+Top 5 words: 
+the 9
+and 9
+in 9
+our 8
+can 8
+
+5 random words: 
+nuances
+furthermore
+area
+is
+very
+
+FILE2.TXT
+
+Score: 8.55497382198953
+
+Top 5 words: 
+time 11
+our 11
+and 8
+we 8
+to 8
+
+5 random words: 
+track
+lives
+sure
+planned
+positive
+
+FILE3.TXT
+
+Score: 8.490242741551642
+
+Top 5 words: 
+our 10
+and 8
+communication 7
+in 7
+we 6
+
+5 random words: 
+can
+in
+of
+by
+finger
+
+FILE4.TXT
+
+Score: 8.935828877005347
+
+Top 5 words: 
+our 11
+time 11
+we 11
+of 8
+and 7
+
+5 random words: 
+this
+system
+to
+setting
+life
+
